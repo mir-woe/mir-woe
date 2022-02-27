@@ -1,16 +1,14 @@
-### Hi there 👋
+## ✨ About Me ✨
+<p align="left">
+  https://mir-woe.github.io
+<p/>
 
-<!--
-**mir-woe/mir-woe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 My Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mir-woe&show_icons=true">
+  &nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-woe&show_icons=true&exclude_repo=Homework&layout=compact" />
+</p>
+
