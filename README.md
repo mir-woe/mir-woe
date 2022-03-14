@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://mir-woe.github.io"> my site </a>
-<p/>
+[visit me](https://mir-woe.github.io "hahah")
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mir-woe&show_icons=true" />
@@ -10,4 +8,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-woe&&" />
 </>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"> github stats provided by anuraghazra </a></p>
+[github stats provided by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
