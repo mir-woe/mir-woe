@@ -1,4 +1,4 @@
-> styling a read me is hard work so [visit my site](https://mir-woe.github.io "poo hahaha") instead!
+> why u here 
 
 <!--
 
